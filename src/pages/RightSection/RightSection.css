@@ -1,0 +1,63 @@
+.RightSection{
+    flex:1;
+    /* border: 1px solid blue; */
+    padding: 0 4%;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    padding: 1% 0;
+}
+.tagline{
+    font-size:  17px;
+    padding-bottom: 2%;
+}
+.price{
+    font-size: 35px;
+    color: #4bab72;
+    font-weight: bold;
+    padding: 3% 0 5%;
+}
+.buy{
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+    margin-bottom: 5%;
+    font-weight: bold;
+    background-color: #4bab72;
+    color: white;
+    border-radius: 20px;
+    border: none;
+}
+
+button:hover{
+    background-color: #dbf6e6;
+    color:  #4bab72;
+    transition: all 0.3s ease;
+}
+.condition{
+    color: red;
+    font-size: 12px;
+    padding-bottom: 5%;
+}
+ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    margin: 5% 0;
+    /* border: 1px solid black; */
+    justify-content: space-between;
+}
+li{
+    list-style: none;
+}
+.description_title{
+    font-size: 22px;
+    padding-top: 3%;
+}
+.description{
+    font-size: 18px;
+    padding-top: 2%;
+    text-align: justify;
+}

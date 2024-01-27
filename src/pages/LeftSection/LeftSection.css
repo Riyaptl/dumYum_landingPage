@@ -1,0 +1,12 @@
+.LeftSection{
+    flex:1;
+    width: 50%;
+    /* border: 1px solid blue; */
+}
+.ProductImg{
+    width: 550px;
+}
+.Swiper{
+    height:70vh;
+    align-items: center;
+}
